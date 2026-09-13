@@ -9,11 +9,7 @@ public class DarshanBhadjaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DarshanBhadjaApplication.class, args);
 	}
-	Hello World
 
-			Hello World
+	Hello Worls
 
-					Hello World
-
-	Practice
 }
